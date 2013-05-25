@@ -1,0 +1,5 @@
+TARGETNAME=badram
+TARGETTYPE=DRIVER
+SOURCES=badram.c \
+        logmsgs.mc \
+        logmsgs.rc
